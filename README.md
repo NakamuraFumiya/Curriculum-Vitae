@@ -62,10 +62,6 @@ Elasticsearch、Logstash、GrafanaといったOSSを使用して、ホストマ�
 - メインフレームの保守・運用作業
 - 基本設計・詳細設計
 
-### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
-
 ### 過去の登壇資料
 * [earthkey pitch vol.45](https://earthkey.events/events/earthkey-pitch-vol-45/)
 
