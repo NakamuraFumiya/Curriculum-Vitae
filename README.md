@@ -7,7 +7,7 @@
 |Name|中村郁哉(Fumiya Nakamura)|
 |Qiita|[Nakamura Fumiya](https://qiita.com/NakamuraFumiya3)|
 |zenn|[NakamuraFumiya](https://zenn.dev/nakamura_fumiya)|
-|Twitter|[@NakamuraFumiya3](https://twitter.com/foobar)|
+|Twitter|[@NakamuraFumiya3](https://twitter.com/NakamuraFumiya3)|
 
 ## スキル
 ### 言語
