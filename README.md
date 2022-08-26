@@ -21,7 +21,6 @@
 
 ### その他
 - 半年ほど5人規模のプロジェクトリーダーの担当経験あり
-- ピッチコンテスト登壇経験あり
 
 
 ## 強み
@@ -62,8 +61,8 @@ Elasticsearch、Logstash、GrafanaといったOSSを使用して、ホストマ�
 - メインフレームの保守・運用作業
 - 基本設計・詳細設計
 
-### 過去の登壇資料
-* [earthkey pitch vol.45](https://earthkey.events/events/earthkey-pitch-vol-45/)
+<!-- ### 過去の登壇資料
+* [earthkey pitch vol.45](https://earthkey.events/events/earthkey-pitch-vol-45/) -->
 
 ### 受賞歴
 * [BOXIL SaaS AWARD 2022 プロダクト開発賞](https://prtimes.jp/main/html/rd/p/000000237.000021126.html)
