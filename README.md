@@ -97,6 +97,7 @@ Elasticsearch、Logstash、GrafanaといったOSSを使用して、ホストマ�
 ### ポートフォリオ
 * [マイプロフィール](https://www.fumiyanakamura.com/)
 * [Wellbi(ユーザ記事投稿型サービス)](https://wellbi.vercel.app/)
+  * ※ 今はDBを停止しているためログイン機能・記事閲覧など使えなくなっております
 
 ### 受賞歴
 * [BOXIL SaaS AWARD 2022 プロダクト開発賞](https://prtimes.jp/main/html/rd/p/000000237.000021126.html)
