@@ -119,9 +119,6 @@ Elasticsearch、Logstash、GrafanaといったOSSを使用して、ホストマ�
 * [Wellbi(ユーザ記事投稿型サービス)](https://wellbi.vercel.app/)
   * ※ 今はDBを停止しているためログイン機能・記事閲覧など使えなくなっております
 
-### 受賞歴
-* [BOXIL SaaS AWARD 2022 プロダクト開発賞](https://prtimes.jp/main/html/rd/p/000000237.000021126.html)
-
 ### 執筆歴
 * [Qiita](https://qiita.com/NakamuraFumiya3)
 * [zenn](https://zenn.dev/nakamura_fumiya)
